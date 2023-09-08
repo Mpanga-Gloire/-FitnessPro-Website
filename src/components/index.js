@@ -1,0 +1,10 @@
+export { default as Navbar } from "./navbar/Navbar";
+export { default as MainHeader } from "./header/MainHeader";
+export { default as Programs } from "./programs/Programs";
+export { default as SectionHead } from "./sectionHead/SectionHead";
+export { default as Values } from "./values/Values";
+export { default as FAQs } from "./faqs/FAQs";
+export { default as Testimonials } from "./testimonials/Testimonials";
+export { default as Footer } from "./footer/Footer";
+export { default as SectionHeader } from "./SectionHeader/SectionHeader";
+export { default as Trainer } from "./Trainer/Trainer";
